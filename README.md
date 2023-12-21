@@ -1,2 +1,2 @@
 # digital-library
-Aastha Jain
+library management system
